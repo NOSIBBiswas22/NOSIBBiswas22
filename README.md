@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,tailwind,redux,nodejs,express,mongodb,postgres,redis,aws,docker,nginx,githubactions,figma,ps,ai&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,c,cpp,java,tailwind,redux,nodejs,express,mongodb,postgres,redis,aws,gcp,docker,kubernetes,cloudflare,githubactions,nginx,prometheus,grafana,xd,ps,git,github,vscode&perline=14" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NOSIBBiswas22&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="https://github.com/NOSIBBiswas22?tab=followers">
     <img src="https://img.shields.io/github/followers/NOSIBBiswas22?style=flat-square&color=38bdf8&label=FOLLOWERS&logo=github" alt="Followers" />
@@ -41,4 +41,47 @@
   <a href="https://github.com/NOSIBBiswas22?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=38bdf8&label=REPOSITORIES&logo=github&query=$.public_repos&url=https://api.github.com/users/NOSIBBiswas22" alt="Repos" />
   </a>
-</p>
+</p> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NOSIBBiswas22/NOSIBBiswas22/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NOSIBBiswas22/NOSIBBiswas22/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NOSIBBiswas22/NOSIBBiswas22/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!-- ---
+
+<div align="center">
+  <blockquote>
+    <i>"Simplicity is prerequisite for reliability."</i> — Edsger W. Dijkstra
+  </blockquote>
+
+  <p>
+    <a href="https://nosib.vercel.app" target="_blank">
+      <img src="https://komarev.com/ghpvc/?username=NOSIBBiswas22&color=38bdf8&style=flat-square&label=EYES+ON+PROFILE" alt="Profile Views" />
+    </a>
+    <img src="https://img.shields.io/badge/STATUS-BUILDING_SCALABLE_APPS-00f5d4?style=flat-square" alt="Status" />
+  </p>
+
+  <p>⚡ <b>Nosib Biswas</b> • <a href="https://nosib.vercel.app">nosib.vercel.app</a></p>
+</div> -->
+
+---
+
+<div align="center">
+  <blockquote>
+    <i>"Talk is cheap. Show me the code."</i> — Linus Torvalds
+  </blockquote>
+  <p>
+    <a href="https://nosib.vercel.app" target="_blank">
+      <img src="https://komarev.com/ghpvc/?username=NOSIBBiswas22&color=00f5d4&style=for-the-badge&label=EYES+ON+PROFILE" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/NOSIBBiswas22?tab=followers">
+      <img src="https://img.shields.io/github/followers/NOSIBBiswas22?style=for-the-badge&color=38bdf8&label=NETWORK&logo=github" alt="Network" />
+    </a>
+  </p>
+
+  <p><sub>🚀 Always open to tech chats, open-source work, and new opportunities.</sub></p>
+
+  <!-- <p>⚡ Crafted with precision by <b>Nosib Biswas</b> • <a href="https://nosib.vercel.app">nosib.vercel.app</a></p> -->
+</div>
