@@ -1,8 +1,19 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="NOSIBBiswas22's GitHub profile" src="dark_mode.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nosibbiswas22/nosibbiswas22/output/dark_mode.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nosibbiswas22/nosibbiswas22/output/light_mode.svg"
+    />
+    <img
+      alt="nosibbiswas22's GitHub profile"
+      src="https://raw.githubusercontent.com/nosibbiswas22/nosibbiswas22/output/dark_mode.svg"
+    />
+  </picture>
+</div>
 
 <h3 align="center">⚡ Core Tech Stack</h3>
 
@@ -14,14 +25,14 @@
 
 <h3 align="center">⚡ GitHub Stats</h2>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/NOSIBBiswas22">
     <img src="https://github-readme-stats.shion.dev/api?username=NOSIBBiswas22&show_icons=true&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/NOSIBBiswas22">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NOSIBBiswas22&layout=compact&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" height="165" />
   </a>
-</div>
+</div> -->
 
 <br/>
 
@@ -43,11 +54,19 @@
   </a>
 </p> -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NOSIBBiswas22/NOSIBBiswas22/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NOSIBBiswas22/NOSIBBiswas22/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NOSIBBiswas22/NOSIBBiswas22/output/github-contribution-grid-snake.svg" />
-</picture>
+</picture> -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NOSIBBiswas22/NOSIBBiswas22/pacman-output/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NOSIBBiswas22/NOSIBBiswas22/pacman-output/pacman-contribution-graph.svg"/>
+    <img width="100%" alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/NOSIBBiswas22/NOSIBBiswas22/pacman-output/pacman-contribution-graph.svg"/>
+  </picture>
+</p>
 
 <!-- ---
 
