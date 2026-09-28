@@ -2,15 +2,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/nosibbiswas22/nosibbiswas22/output/dark_mode.svg"
+      srcset="https://raw.githubusercontent.com/nosibbiswas22/nosibbiswas22/gh-ascii-output/dark_mode.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/nosibbiswas22/nosibbiswas22/output/light_mode.svg"
+      srcset="https://raw.githubusercontent.com/nosibbiswas22/nosibbiswas22/gh-ascii-output/light_mode.svg"
     />
     <img
       alt="nosibbiswas22's GitHub profile"
-      src="https://raw.githubusercontent.com/nosibbiswas22/nosibbiswas22/output/dark_mode.svg"
+      src="https://raw.githubusercontent.com/nosibbiswas22/nosibbiswas22/gh-ascii-output/dark_mode.svg"
     />
   </picture>
 </div>
@@ -55,9 +55,9 @@
 </p> -->
 
 <!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NOSIBBiswas22/NOSIBBiswas22/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NOSIBBiswas22/NOSIBBiswas22/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NOSIBBiswas22/NOSIBBiswas22/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NOSIBBiswas22/NOSIBBiswas22/snake-output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NOSIBBiswas22/NOSIBBiswas22/snake-output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NOSIBBiswas22/NOSIBBiswas22/snake-output/github-contribution-grid-snake.svg" />
 </picture> -->
 
 <p align="center">
