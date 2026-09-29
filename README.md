@@ -35,7 +35,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nosibbiswas22&background=0D1117&border=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nosibbiswas22&background=0D1117&border=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&hide_border=true&cache_seconds=5" alt="GitHub Streak" />
 </p>
 
 <br/>
