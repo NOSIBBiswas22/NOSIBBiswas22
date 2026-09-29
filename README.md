@@ -18,9 +18,7 @@
 <h3 align="center">⚡ Core Tech Stack</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,c,cpp,java,tailwind,redux,nodejs,express,mongodb,postgres,redis,aws,gcp,docker,kubernetes,cloudflare,githubactions,nginx,prometheus,grafana,xd,ps,git,github,vscode&perline=14" />
-  </a>
 </p>
 
 <h3 align="center">⚡ GitHub Stats</h2>
@@ -36,11 +34,9 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/NOSIBBiswas22">
-    <img src="https://streak-stats.demolab.com/?user=NOSIBBiswas22&background=0D1117&border=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NOSIBBiswas22&background=0D1117&border=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <br/>
 
